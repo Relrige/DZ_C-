@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\dz_ht\dz_ht\bin\Debug\net5.0\dz_ht.exe
+C:\Users\Admin\Desktop\dz_ht\dz_ht\bin\Debug\net5.0\dz_ht.deps.json
+C:\Users\Admin\Desktop\dz_ht\dz_ht\bin\Debug\net5.0\dz_ht.runtimeconfig.json
+C:\Users\Admin\Desktop\dz_ht\dz_ht\bin\Debug\net5.0\dz_ht.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\dz_ht\dz_ht\bin\Debug\net5.0\dz_ht.dll
+C:\Users\Admin\Desktop\dz_ht\dz_ht\bin\Debug\net5.0\ref\dz_ht.dll
+C:\Users\Admin\Desktop\dz_ht\dz_ht\bin\Debug\net5.0\dz_ht.pdb
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\dz_ht.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\dz_ht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\dz_ht.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\dz_ht.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\dz_ht.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\dz_ht.dll
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\ref\dz_ht.dll
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\dz_ht.pdb
+C:\Users\Admin\Desktop\dz_ht\dz_ht\obj\Debug\net5.0\dz_ht.genruntimeconfig.cache
