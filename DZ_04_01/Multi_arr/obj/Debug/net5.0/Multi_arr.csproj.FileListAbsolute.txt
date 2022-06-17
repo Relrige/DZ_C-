@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\bin\Debug\net5.0\Multi_arr.exe
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\bin\Debug\net5.0\Multi_arr.deps.json
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\bin\Debug\net5.0\Multi_arr.runtimeconfig.json
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\bin\Debug\net5.0\Multi_arr.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\bin\Debug\net5.0\Multi_arr.dll
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\bin\Debug\net5.0\ref\Multi_arr.dll
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\bin\Debug\net5.0\Multi_arr.pdb
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\Multi_arr.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\Multi_arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\Multi_arr.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\Multi_arr.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\Multi_arr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\Multi_arr.dll
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\ref\Multi_arr.dll
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\Multi_arr.pdb
+C:\Users\Admin\Desktop\DZ_04_01\Multi_arr\obj\Debug\net5.0\Multi_arr.genruntimeconfig.cache

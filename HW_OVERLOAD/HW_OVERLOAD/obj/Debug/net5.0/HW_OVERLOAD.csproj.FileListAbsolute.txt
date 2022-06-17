@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\bin\Debug\net5.0\HW_OVERLOAD.exe
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\bin\Debug\net5.0\HW_OVERLOAD.deps.json
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\bin\Debug\net5.0\HW_OVERLOAD.runtimeconfig.json
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\bin\Debug\net5.0\HW_OVERLOAD.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\bin\Debug\net5.0\HW_OVERLOAD.dll
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\bin\Debug\net5.0\ref\HW_OVERLOAD.dll
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\bin\Debug\net5.0\HW_OVERLOAD.pdb
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\HW_OVERLOAD.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\HW_OVERLOAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\HW_OVERLOAD.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\HW_OVERLOAD.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\HW_OVERLOAD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\HW_OVERLOAD.dll
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\ref\HW_OVERLOAD.dll
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\HW_OVERLOAD.pdb
+C:\Users\Admin\Desktop\HW_OVERLOAD\HW_OVERLOAD\obj\Debug\net5.0\HW_OVERLOAD.genruntimeconfig.cache
