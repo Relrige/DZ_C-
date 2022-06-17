@@ -1,0 +1,13 @@
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\obj\Debug\LabWorkInheritanceCSharp.csproj.AssemblyReference.cache
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\obj\Debug\LabWorkInheritanceCSharp.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\bin\Debug\LabWorkInheritanceCSharp.exe.config
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\bin\Debug\LabWorkInheritanceCSharp.exe
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\bin\Debug\LabWorkInheritanceCSharp.pdb
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\obj\Debug\LabWorkInheritanceCSharp.exe
+C:\Users\victor\source\repos\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\obj\Debug\LabWorkInheritanceCSharp.pdb
+C:\Users\Admin\Desktop\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\bin\Debug\LabWorkInheritanceCSharp.exe
+C:\Users\Admin\Desktop\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\bin\Debug\LabWorkInheritanceCSharp.pdb
+C:\Users\Admin\Desktop\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\obj\Debug\LabWorkInheritanceCSharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\obj\Debug\LabWorkInheritanceCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\obj\Debug\LabWorkInheritanceCSharp.exe
+C:\Users\Admin\Desktop\LabWorkInheritanceCSharp\LabWorkInheritanceCSharp\obj\Debug\LabWorkInheritanceCSharp.pdb
