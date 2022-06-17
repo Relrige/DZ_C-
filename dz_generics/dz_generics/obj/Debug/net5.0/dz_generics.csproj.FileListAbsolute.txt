@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\dz_generics\dz_generics\bin\Debug\net5.0\dz_generics.exe
+C:\Users\Admin\Desktop\dz_generics\dz_generics\bin\Debug\net5.0\dz_generics.deps.json
+C:\Users\Admin\Desktop\dz_generics\dz_generics\bin\Debug\net5.0\dz_generics.runtimeconfig.json
+C:\Users\Admin\Desktop\dz_generics\dz_generics\bin\Debug\net5.0\dz_generics.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\dz_generics\dz_generics\bin\Debug\net5.0\dz_generics.dll
+C:\Users\Admin\Desktop\dz_generics\dz_generics\bin\Debug\net5.0\ref\dz_generics.dll
+C:\Users\Admin\Desktop\dz_generics\dz_generics\bin\Debug\net5.0\dz_generics.pdb
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\dz_generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\dz_generics.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\dz_generics.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\dz_generics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\dz_generics.dll
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\ref\dz_generics.dll
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\dz_generics.pdb
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\dz_generics.genruntimeconfig.cache
+C:\Users\Admin\Desktop\dz_generics\dz_generics\obj\Debug\net5.0\dz_generics.csproj.AssemblyReference.cache
