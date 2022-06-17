@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\dz.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\dz.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\dz.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\dz.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dz\dz\bin\Debug\net5.0\dz.exe
+C:\Users\Admin\Desktop\dz\dz\bin\Debug\net5.0\dz.deps.json
+C:\Users\Admin\Desktop\dz\dz\bin\Debug\net5.0\dz.runtimeconfig.json
+C:\Users\Admin\Desktop\dz\dz\bin\Debug\net5.0\dz.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\dz\dz\bin\Debug\net5.0\dz.dll
+C:\Users\Admin\Desktop\dz\dz\bin\Debug\net5.0\ref\dz.dll
+C:\Users\Admin\Desktop\dz\dz\bin\Debug\net5.0\dz.pdb
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\dz.dll
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\ref\dz.dll
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\dz.pdb
+C:\Users\Admin\Desktop\dz\dz\obj\Debug\net5.0\dz.genruntimeconfig.cache
