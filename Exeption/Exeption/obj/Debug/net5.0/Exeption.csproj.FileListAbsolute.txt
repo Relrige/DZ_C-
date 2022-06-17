@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Exeption\Exeption\bin\Debug\net5.0\Exeption.exe
+C:\Users\Admin\Desktop\Exeption\Exeption\bin\Debug\net5.0\Exeption.deps.json
+C:\Users\Admin\Desktop\Exeption\Exeption\bin\Debug\net5.0\Exeption.runtimeconfig.json
+C:\Users\Admin\Desktop\Exeption\Exeption\bin\Debug\net5.0\Exeption.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Exeption\Exeption\bin\Debug\net5.0\Exeption.dll
+C:\Users\Admin\Desktop\Exeption\Exeption\bin\Debug\net5.0\ref\Exeption.dll
+C:\Users\Admin\Desktop\Exeption\Exeption\bin\Debug\net5.0\Exeption.pdb
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\Exeption.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\Exeption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\Exeption.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\Exeption.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\Exeption.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\Exeption.dll
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\ref\Exeption.dll
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\Exeption.pdb
+C:\Users\Admin\Desktop\Exeption\Exeption\obj\Debug\net5.0\Exeption.genruntimeconfig.cache
