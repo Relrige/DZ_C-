@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\HW_1000\HW_1000\bin\Debug\net5.0\HW_1000.exe
+C:\Users\Admin\Desktop\HW_1000\HW_1000\bin\Debug\net5.0\HW_1000.deps.json
+C:\Users\Admin\Desktop\HW_1000\HW_1000\bin\Debug\net5.0\HW_1000.runtimeconfig.json
+C:\Users\Admin\Desktop\HW_1000\HW_1000\bin\Debug\net5.0\HW_1000.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW_1000\HW_1000\bin\Debug\net5.0\HW_1000.dll
+C:\Users\Admin\Desktop\HW_1000\HW_1000\bin\Debug\net5.0\ref\HW_1000.dll
+C:\Users\Admin\Desktop\HW_1000\HW_1000\bin\Debug\net5.0\HW_1000.pdb
+C:\Users\Admin\Desktop\HW_1000\HW_1000\obj\Debug\net5.0\HW_1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HW_1000\HW_1000\obj\Debug\net5.0\HW_1000.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW_1000\HW_1000\obj\Debug\net5.0\HW_1000.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW_1000\HW_1000\obj\Debug\net5.0\HW_1000.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW_1000\HW_1000\obj\Debug\net5.0\HW_1000.dll
+C:\Users\Admin\Desktop\HW_1000\HW_1000\obj\Debug\net5.0\ref\HW_1000.dll
+C:\Users\Admin\Desktop\HW_1000\HW_1000\obj\Debug\net5.0\HW_1000.pdb
+C:\Users\Admin\Desktop\HW_1000\HW_1000\obj\Debug\net5.0\HW_1000.genruntimeconfig.cache
