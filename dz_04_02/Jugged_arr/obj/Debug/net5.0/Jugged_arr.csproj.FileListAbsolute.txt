@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\Jugged_arr.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\Jugged_arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\Jugged_arr.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\Jugged_arr.AssemblyInfo.cs
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\Jugged_arr.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\bin\Debug\net5.0\Jugged_arr.exe
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\bin\Debug\net5.0\Jugged_arr.deps.json
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\bin\Debug\net5.0\Jugged_arr.runtimeconfig.json
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\bin\Debug\net5.0\Jugged_arr.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\bin\Debug\net5.0\Jugged_arr.dll
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\bin\Debug\net5.0\ref\Jugged_arr.dll
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\bin\Debug\net5.0\Jugged_arr.pdb
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\Jugged_arr.dll
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\ref\Jugged_arr.dll
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\Jugged_arr.pdb
+C:\Users\Admin\Desktop\dz_04_02\Jugged_arr\obj\Debug\net5.0\Jugged_arr.genruntimeconfig.cache
