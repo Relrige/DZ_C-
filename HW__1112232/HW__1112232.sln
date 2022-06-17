@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW__1112232", "HW__1112232\HW__1112232.csproj", "{2176666D-1C5A-4746-87A7-4397106833F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teak_2", "Teak_2\Teak_2.csproj", "{71197420-3FE7-44BF-B79B-B3C426556131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2176666D-1C5A-4746-87A7-4397106833F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2176666D-1C5A-4746-87A7-4397106833F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2176666D-1C5A-4746-87A7-4397106833F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2176666D-1C5A-4746-87A7-4397106833F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71197420-3FE7-44BF-B79B-B3C426556131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71197420-3FE7-44BF-B79B-B3C426556131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71197420-3FE7-44BF-B79B-B3C426556131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71197420-3FE7-44BF-B79B-B3C426556131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3EADC41-5281-49B7-B42B-15FD3EF2C84C}
+	EndGlobalSection
+EndGlobal

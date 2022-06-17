@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\Teak_2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\Teak_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\Teak_2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\Teak_2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\Teak_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\bin\Debug\net5.0\Teak_2.exe
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\bin\Debug\net5.0\Teak_2.deps.json
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\bin\Debug\net5.0\Teak_2.runtimeconfig.json
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\bin\Debug\net5.0\Teak_2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\bin\Debug\net5.0\Teak_2.dll
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\bin\Debug\net5.0\ref\Teak_2.dll
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\bin\Debug\net5.0\Teak_2.pdb
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\Teak_2.dll
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\ref\Teak_2.dll
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\Teak_2.pdb
+C:\Users\Admin\Desktop\HW__1112232\Teak_2\obj\Debug\net5.0\Teak_2.genruntimeconfig.cache
