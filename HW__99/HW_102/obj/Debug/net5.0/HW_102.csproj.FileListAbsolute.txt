@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\HW__99\HW_102\bin\Debug\net5.0\HW_102.exe
+C:\Users\Admin\Desktop\HW__99\HW_102\bin\Debug\net5.0\HW_102.deps.json
+C:\Users\Admin\Desktop\HW__99\HW_102\bin\Debug\net5.0\HW_102.runtimeconfig.json
+C:\Users\Admin\Desktop\HW__99\HW_102\bin\Debug\net5.0\HW_102.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW__99\HW_102\bin\Debug\net5.0\HW_102.dll
+C:\Users\Admin\Desktop\HW__99\HW_102\bin\Debug\net5.0\ref\HW_102.dll
+C:\Users\Admin\Desktop\HW__99\HW_102\bin\Debug\net5.0\HW_102.pdb
+C:\Users\Admin\Desktop\HW__99\HW_102\obj\Debug\net5.0\HW_102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HW__99\HW_102\obj\Debug\net5.0\HW_102.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW__99\HW_102\obj\Debug\net5.0\HW_102.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW__99\HW_102\obj\Debug\net5.0\HW_102.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW__99\HW_102\obj\Debug\net5.0\HW_102.dll
+C:\Users\Admin\Desktop\HW__99\HW_102\obj\Debug\net5.0\ref\HW_102.dll
+C:\Users\Admin\Desktop\HW__99\HW_102\obj\Debug\net5.0\HW_102.pdb
+C:\Users\Admin\Desktop\HW__99\HW_102\obj\Debug\net5.0\HW_102.genruntimeconfig.cache
