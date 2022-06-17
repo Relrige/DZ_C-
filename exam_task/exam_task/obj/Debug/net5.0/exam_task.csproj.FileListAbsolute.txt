@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\exam_task\exam_task\bin\Debug\net5.0\exam_task.exe
+C:\Users\Admin\Desktop\exam_task\exam_task\bin\Debug\net5.0\exam_task.deps.json
+C:\Users\Admin\Desktop\exam_task\exam_task\bin\Debug\net5.0\exam_task.runtimeconfig.json
+C:\Users\Admin\Desktop\exam_task\exam_task\bin\Debug\net5.0\exam_task.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\exam_task\exam_task\bin\Debug\net5.0\exam_task.dll
+C:\Users\Admin\Desktop\exam_task\exam_task\bin\Debug\net5.0\ref\exam_task.dll
+C:\Users\Admin\Desktop\exam_task\exam_task\bin\Debug\net5.0\exam_task.pdb
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\exam_task.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\exam_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\exam_task.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\exam_task.AssemblyInfo.cs
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\exam_task.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\exam_task.dll
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\ref\exam_task.dll
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\exam_task.pdb
+C:\Users\Admin\Desktop\exam_task\exam_task\obj\Debug\net5.0\exam_task.genruntimeconfig.cache

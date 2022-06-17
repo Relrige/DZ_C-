@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\bin\Debug\net5.0\HW_FILE.exe
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\bin\Debug\net5.0\HW_FILE.deps.json
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\bin\Debug\net5.0\HW_FILE.runtimeconfig.json
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\bin\Debug\net5.0\HW_FILE.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\bin\Debug\net5.0\HW_FILE.dll
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\bin\Debug\net5.0\ref\HW_FILE.dll
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\bin\Debug\net5.0\HW_FILE.pdb
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\HW_FILE.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\HW_FILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\HW_FILE.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\HW_FILE.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\HW_FILE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\HW_FILE.dll
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\ref\HW_FILE.dll
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\HW_FILE.pdb
+C:\Users\Admin\Desktop\HW_FILE\HW_FILE\obj\Debug\net5.0\HW_FILE.genruntimeconfig.cache
